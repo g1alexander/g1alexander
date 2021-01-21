@@ -11,7 +11,7 @@
   </a>
 </p>
 <p>
-  <img align="center" alt="gif" src="img.gif">
+  <img alt="gif" src="img.gif">
 </p>
 
 ---
@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### 🚀 Coding
 
-<img align="center" alt="HTML5" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="center" alt="CSS3" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="center" alt="JavaScript"  width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript"  width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="center" alt="React" width="26px"  style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="React" width="26px"  style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<img align="center" alt="Sass" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Sass" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 
-<img align="center" alt="Vue" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Vue" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-<img align="center" alt="Php" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Php" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<img align="center" alt="GraphQL" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="GraphQL" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
-<img align="center" alt="MySQL" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="center" alt="MongoDB" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/>
 

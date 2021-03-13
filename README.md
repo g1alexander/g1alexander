@@ -1,4 +1,5 @@
 ### Hi [Alexander G][website] here 👋
+
 <p>
   <a href="https://www.linkedin.com/in/g1alexander/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -11,14 +12,16 @@
   </a>
 </p>
 <p>
-  <img alt="gif" src="img.gif">
+  <img alt="gif" width="300" src="img.gif">
 </p>
 
 ---
-### 💻 Frontend web developer 
+
+### 💻 Frontend web developer
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Vue JS & React JS
+
+- 🌱 I’m currently learning Vue JS & Laravel
 - 📫 How to reach me: [LinkedIn][linkedin] or [Telegram][telegram]
 
 ---
@@ -30,15 +33,11 @@
 <img align="left" alt="CSS3" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="JavaScript"  width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px"  style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="Php" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <img align="left" alt="Sass" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-
 <img align="left" alt="Vue" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img align="left" alt="Php" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
 <img align="left" alt="GraphQL" width="26px" style="margin-right: 10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
@@ -51,6 +50,7 @@
 ---
 
 <!-- links -->
-[website]: https://alexandergranados.com/
+
+[website]: https://g1alexander.netlify.app/
 [linkedin]: https://www.linkedin.com/in/g1alexander/
 [telegram]: https://t.me/g1alexander

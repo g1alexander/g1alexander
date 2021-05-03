@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋🏼, I'm <a href="https://www.g1alexander.com/" target="_black" rel="noopener">Alexander Granados</a>!</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/g1alexander/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/g1alexander/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/g1_alexander" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 <br>
+
 <h3><details>
 <summary>🚀 More about my coding life</summary>
 <br />
@@ -10,7 +23,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=g1alexander&layout=compact" width = 400>
 </p>
 
-</details></h3> <br>
+</details></h3>
+
+<br>
 
 <div align="center">
 

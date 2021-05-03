@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm <a href="https://www.g1alexander.com/" target="_black" rel="noopener">Alexander Granados</a>!</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/g1alexander/" target="_blank">

@@ -1,7 +1,8 @@
+<!-- TITLE -->
 <h1 align="center">Hi 👋🏼, I'm <a href="https://www.g1alexander.com/" target="_black" rel="noopener">Alexander Granados</a>!</h1>
 
 <br>
-
+<!-- SOCIAL MEDIA -->
 <p align="center">
   <a href="https://www.linkedin.com/in/g1alexander/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -13,35 +14,48 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-<br>
-
-<h3><details>
-<summary>🚀 More about my coding life</summary>
-<br />
-
-<div align = "center">
-  <p>
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML-orange" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue" />
-    <img alt="JS" src="https://img.shields.io/badge/-JS-yellow" />
-    <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-BOOTSTRAP-8A00B3" />
-    <img alt="TAILWIND" src="https://img.shields.io/badge/-TAILWIND-00B5D7" />
-    <img alt="VUE" src="https://img.shields.io/badge/-VUE-brightgreen" />
-    <img alt="VUETIFY" src="https://img.shields.io/badge/-VUETIFY-74BBFF" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-8A82BC" />
-    <img alt="STRAPI" src="https://img.shields.io/badge/-STRAPI-A600FF" />
-    <img alt="VERCEL" src="https://img.shields.io/badge/-VERCEL-000000" />
-    <img alt="NETLIFY" src="https://img.shields.io/badge/-NETLIFY-005E84" />
-  </p>
-  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=g1alexander&theme=dark&hide_border=true" width = 400>
-
-</div>
-
-</details></h3>
 
 <br>
 
+<!-- TOOLS -->
+<details>
+  <summary>🛠️ Languajes and Tools</summary>
+  <br />
+
+  <div align = "center">
+    <p>
+      <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=ffffff" />
+      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=ffffff" />
+      <img alt="JS" src="https://img.shields.io/badge/-JS-yellow?&logo=Javascript&logoColor=ffffff" />
+      <img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?&logo=Git&logoColor=ffffff" />
+      <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?&logo=bootstrap&logoColor=ffffff" />
+      <img alt="TAILWIND" src="https://img.shields.io/badge/-TAILWIND-38B2AC?&logo=Tailwind-css&logoColor=ffffff" />
+      <img alt="VUE" src="https://img.shields.io/badge/-VUE-4FC08D?&logo=vue-dot-js&logoColor=ffffff" />
+      <img alt="VUETIFY" src="https://img.shields.io/badge/-VUETIFY-1867C0?&logo=Vuetify&logoColor=ffffff" />
+      <img alt="NUXT.JS" src="https://img.shields.io/badge/-NUXT.JS-00C58E?&logo=nuxt-dot-js&logoColor=ffffff" />
+      <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=ffffff" />
+      <img alt="STRAPI" src="https://img.shields.io/badge/-STRAPI-2F2E8B?&logo=Strapi&logoColor=ffffff" />
+      <img alt="VERCEL" src="https://img.shields.io/badge/-VERCEL-000000?&logo=Vercel&logoColor=ffffff" />
+      <img alt="NETLIFY" src="https://img.shields.io/badge/-NETLIFY-00C7B7?&logo=Netlify&logoColor=ffffff" />
+    </p>
+  </div>
+</details>
+
+<br>
+
+<!-- CODE -->
+<details>
+  <summary>🚀 More about my coding life</summary>
+  <br />
+
+  <div align = "center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=g1alexander&theme=vue-dark&hide_border=true" width = 400 />
+  </div>
+</details>
+
+<br>
+
+<!-- SPOTIFY -->
 <div align="center">
 
 [![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/g1alexander)

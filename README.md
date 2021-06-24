@@ -30,10 +30,9 @@
       <img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?&logo=Git&logoColor=ffffff" />
       <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?&logo=bootstrap&logoColor=ffffff" />
       <img alt="TAILWIND" src="https://img.shields.io/badge/-TAILWIND-38B2AC?&logo=Tailwind-css&logoColor=ffffff" />
-      <img alt="VUE" src="https://img.shields.io/badge/-VUE-4FC08D?&logo=vue-dot-js&logoColor=ffffff" />
+      <img alt="VUE" src="https://img.shields.io/badge/-VUE-4FC08D?&logo=vuedotjs&logoColor=ffffff" />
       <img alt="VUETIFY" src="https://img.shields.io/badge/-VUETIFY-1867C0?&logo=Vuetify&logoColor=ffffff" />
-      <img alt="NUXT.JS" src="https://img.shields.io/badge/-NUXT.JS-00C58E?&logo=nuxt-dot-js&logoColor=ffffff" />
-      <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=ffffff" />
+      <img alt="NUXT.JS" src="https://img.shields.io/badge/-NUXT.JS-00C58E?&logo=nuxtdotjs&logoColor=ffffff" />
       <img alt="STRAPI" src="https://img.shields.io/badge/-STRAPI-2F2E8B?&logo=Strapi&logoColor=ffffff" />
       <img alt="VERCEL" src="https://img.shields.io/badge/-VERCEL-000000?&logo=Vercel&logoColor=ffffff" />
       <img alt="NETLIFY" src="https://img.shields.io/badge/-NETLIFY-00C7B7?&logo=Netlify&logoColor=ffffff" />

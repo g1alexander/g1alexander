@@ -27,6 +27,7 @@
       <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=ffffff" />
       <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=ffffff" />
       <img alt="JS" src="https://img.shields.io/badge/-JS-yellow?&logo=Javascript&logoColor=ffffff" />
+      <img alt="TS" src="https://img.shields.io/badge/-TS-3178C6?&logo=TypeScript&logoColor=ffffff" />
       <img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?&logo=Git&logoColor=ffffff" />
       <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?&logo=bootstrap&logoColor=ffffff" />
       <img alt="TAILWIND" src="https://img.shields.io/badge/-TAILWIND-38B2AC?&logo=Tailwind-css&logoColor=ffffff" />

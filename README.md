@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/g1alexander/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/g1_alexander" target="_blank">
+  <a href="https://twitter.com/g1alexander_" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>

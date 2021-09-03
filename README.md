@@ -50,6 +50,7 @@
 
   <div align = "center">
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=g1alexander&theme=vue-dark&hide_border=true" width = 400 />
+    <img src = "https://github-readme-stats.vercel.app/api?username=g1alexander&show_icons=true&theme=vue-dark&count_private=true" width = 400 />
   </div>
 </details>
 

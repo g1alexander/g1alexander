@@ -1,4 +1,4 @@
-<link href="./main.css" rel="stylesheet"></link>
+<link href="https://raw.githubusercontent.com/g1alexander/g1alexander/main/main.css" rel="stylesheet"></link>
 
 <!-- TITLE -->
 

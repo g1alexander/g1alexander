@@ -1,12 +1,16 @@
-<link href="./main.css" rel="stylesheet"></link>
-
 <!-- TITLE -->
 
-# Hi 👋🏼, I'm [Alexander Granados][website]!
+<h1 align="center">
 
-<br />
+Hi 👋🏼, I'm [Alexander Granados][website]!
 
-### [![linkedin][linkedin_logo]][linkedin] [![instagram][instagram_logo]][instagram] [![twitter][twitter_logo]][twitter]
+</h1>
+
+<div align="center">
+
+[![linkedin][linkedin_logo]][linkedin] [![instagram][instagram_logo]][instagram] [![twitter][twitter_logo]][twitter]
+
+</div>
 
 <br>
 
@@ -15,6 +19,7 @@
   <summary>🛠️ Languajes and Tools</summary>
 
   <div align="center">
+   <br>
   
   ![JS](https://img.shields.io/badge/-JS-yellow?&logo=Javascript&logoColor=ffffff)
   ![TS](https://img.shields.io/badge/-TS-3178C6?&logo=TypeScript&logoColor=ffffff)
@@ -45,12 +50,11 @@
 <details>
   <summary>🚀 More about my coding life</summary>
   
- <div class="stats" align="center">
-
-![stats1][stats1]
-![stats2][stats2]
-
- </div>
+  <br>
+  <div align = "center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=g1alexander&theme=vue-dark&hide_border=true" width = 400 />
+    <img src = "https://github-readme-stats.vercel.app/api?username=g1alexander&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" width = 400 />
+  </div>
 
 </details>
 
@@ -72,5 +76,3 @@
 [linkedin_logo]: https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge
 [instagram_logo]: https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge
 [twitter_logo]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
-[stats1]: https://github-readme-streak-stats.herokuapp.com?user=g1alexander&theme=vue-dark&hide_border=true
-[stats2]: https://github-readme-stats.vercel.app/api?username=g1alexander&show_icons=true&theme=vue-dark&count_private=true&hide_border=true

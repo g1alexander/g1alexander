@@ -54,7 +54,7 @@ h6 {
 }
 
 h1 {
-  font-size: 2.75rem;
+  font-size: 2.5rem;
 }
 h2 {
   font-size: 2rem;
@@ -241,6 +241,12 @@ table tr td :last-child {
 img[alt="stats1"],
 img[alt="stats2"] {
   width: 400px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 /* @end */

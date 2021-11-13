@@ -1,0 +1,8 @@
+## Latest Posts (Spanish)
+
+{% for post in latest_posts %}
+
+- {{post.title}}
+- {{post.body}}
+
+{%  endfor %}

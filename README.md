@@ -1,4 +1,4 @@
-<link href="styles/main.css" rel="stylesheet"></link>
+<link href="./styles/main.css" rel="stylesheet"></link>
 
 <!-- TITLE -->
 

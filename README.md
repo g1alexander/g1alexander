@@ -23,6 +23,7 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
   
   ![JS](https://img.shields.io/badge/-JS-yellow?&logo=Javascript&logoColor=ffffff)
   ![TS](https://img.shields.io/badge/-TS-3178C6?&logo=TypeScript&logoColor=ffffff)
+  ![JEST](https://img.shields.io/badge/-JEST-C21325?&logo=Jest&logoColor=ffffff)
   ![VUE](https://img.shields.io/badge/-VUE-4FC08D?&logo=vuedotjs&logoColor=ffffff)
   ![VUETIFY](https://img.shields.io/badge/-VUETIFY-1867C0?&logo=Vuetify&logoColor=ffffff)
   ![NUXT.JS](https://img.shields.io/badge/-NUXT.JS-00C58E?&logo=nuxtdotjs&logoColor=ffffff)

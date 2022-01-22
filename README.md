@@ -8,9 +8,9 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 
 <div align="center">
 
-<div style="background: #fff; width: 8%; padding-top:6px; border-radius: 10px;">
+<div style="background-color: #ffffff; width: 8%; padding-top:6px; border-radius: 10px;">
 
-![logo](https://res.cloudinary.com/dlgvxohur/image/upload/v1642726843/proyectos/epxbohqltfrqc4utaiw4.svg)
+![logo](https://res.cloudinary.com/dlgvxohur/image/upload/v1642817366/proyectos/wzjtamtoshnoci9poo9i.png)
 
 </div>
 

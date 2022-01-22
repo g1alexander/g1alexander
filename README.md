@@ -8,7 +8,15 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 
 <div align="center">
 
-[![linkedin][linkedin_logo]][linkedin] [![instagram][instagram_logo]][instagram] [![twitter][twitter_logo]][twitter]
+<div style="background: #fff; width: 8%; padding-top:6px; border-radius: 10px;">
+
+![logo](https://res.cloudinary.com/dlgvxohur/image/upload/v1642726843/proyectos/epxbohqltfrqc4utaiw4.svg)
+
+</div>
+
+<br>
+
+[![linkedin][linkedin_logo]][linkedin] [![instagram][instagram_logo]][instagram] [![twitter][twitter_logo]][twitter] [![spotify][spotify_logo]][spotify]
 
 </div>
 
@@ -75,6 +83,8 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 [linkedin]: https://www.linkedin.com/in/g1alexander/
 [instagram]: https://www.instagram.com/g1alexander/
 [twitter]: https://twitter.com/g1alexander_
+[spotify]: https://open.spotify.com/user/g1alexander
 [linkedin_logo]: https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge
 [instagram_logo]: https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge
 [twitter_logo]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
+[spotify_logo]: https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge

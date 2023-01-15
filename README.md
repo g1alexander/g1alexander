@@ -58,7 +58,7 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 
 <!-- CODE -->
 <div>
-  <span>🚀 More about my coding life</summary>
+  <p>🚀 More about my coding life</p>
   
   <br>
   <div align = "center">

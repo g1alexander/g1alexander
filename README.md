@@ -57,8 +57,8 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 <br>
 
 <!-- CODE -->
-<details>
-  <summary>🚀 More about my coding life</summary>
+<div>
+  <span>🚀 More about my coding life</summary>
   
   <br>
   <div align = "center">
@@ -66,7 +66,7 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
     <img src = "https://github-readme-stats.vercel.app/api?username=g1alexander&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" width = 400 />
   </div>
 
-</details>
+</div>
 
 <br>
 

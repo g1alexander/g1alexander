@@ -73,7 +73,7 @@ Hi 👋🏼, I'm [Alexander Granados][website]!
 <!-- SPOTIFY -->
 <div align="center">
 
-[![Spotify](https://spotify-now-playing-lime-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/g1alexander)
+<img  src="https://res.cloudinary.com/dlgvxohur/image/upload/v1673748908/proyectos/banner.jpg"/>
 
 </div>
 
